@@ -1,0 +1,6 @@
+#!
+service tor status
+service i2p status
+service privoxy status
+dig | grep SERVER
+ping -c 2 google.hr
